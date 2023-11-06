@@ -1,0 +1,14 @@
+2023/11/06-11:38:48.410 50e4 Reusing MANIFEST C:\Users\nikit\Documents\WebStormProjects\e2emycrush\Helpers\maritalStatus\Profile 2\Local Storage\leveldb/MANIFEST-000001
+2023/11/06-11:38:48.412 50e4 Recovering log #106
+2023/11/06-11:38:48.415 50e4 Level-0 table #109: started
+2023/11/06-11:38:48.429 50e4 Level-0 table #109: 148381 bytes OK
+2023/11/06-11:38:48.434 50e4 Delete type=0 #106
+2023/11/06-11:38:48.436 5058 Compacting 4@0 + 1@1 files
+2023/11/06-11:38:48.448 5058 Generated table #111@0: 73 keys, 189626 bytes
+2023/11/06-11:38:48.448 5058 Compacted 4@0 + 1@1 files => 189626 bytes
+2023/11/06-11:38:48.449 5058 compacted to: files[ 0 1 0 0 0 0 0 ]
+2023/11/06-11:38:48.450 5058 Delete type=2 #99
+2023/11/06-11:38:48.450 5058 Delete type=2 #101
+2023/11/06-11:38:48.450 5058 Delete type=2 #104
+2023/11/06-11:38:48.450 5058 Delete type=2 #107
+2023/11/06-11:38:48.450 5058 Delete type=2 #109

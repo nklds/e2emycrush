@@ -1,0 +1,15 @@
+2023/11/06-11:46:18.034 2748 Reusing MANIFEST C:\Users\nikit\Documents\WebStormProjects\e2emycrush\Helpers\newFriends\Profile 2\Local Storage\leveldb/MANIFEST-000001
+2023/11/06-11:46:18.036 2748 Recovering log #108
+2023/11/06-11:46:18.037 2748 Reusing old log C:\Users\nikit\Documents\WebStormProjects\e2emycrush\Helpers\newFriends\Profile 2\Local Storage\leveldb/000108.log 
+2023/11/06-11:47:07.939 5ab0 Level-0 table #111: started
+2023/11/06-11:47:07.945 5ab0 Level-0 table #111: 148734 bytes OK
+2023/11/06-11:47:07.947 5ab0 Delete type=0 #108
+2023/11/06-11:47:07.948 5ab0 Compacting 4@0 + 1@1 files
+2023/11/06-11:47:07.956 5ab0 Generated table #112@0: 73 keys, 189646 bytes
+2023/11/06-11:47:07.956 5ab0 Compacted 4@0 + 1@1 files => 189646 bytes
+2023/11/06-11:47:07.957 5ab0 compacted to: files[ 0 1 0 0 0 0 0 ]
+2023/11/06-11:47:07.957 5ab0 Delete type=2 #99
+2023/11/06-11:47:07.957 5ab0 Delete type=2 #101
+2023/11/06-11:47:07.957 5ab0 Delete type=2 #104
+2023/11/06-11:47:07.957 5ab0 Delete type=2 #107
+2023/11/06-11:47:07.958 5ab0 Delete type=2 #111

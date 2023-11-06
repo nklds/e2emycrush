@@ -1,0 +1,9 @@
+2023/11/06-11:38:48.853 5d4c Reusing MANIFEST C:\Users\nikit\Documents\WebStormProjects\e2emycrush\Helpers\gifts\Profile 2\Local Storage\leveldb/MANIFEST-000001
+2023/11/06-11:38:48.856 5d4c Recovering log #102
+2023/11/06-11:38:48.858 5d4c Level-0 table #104: started
+2023/11/06-11:38:48.880 5d4c Level-0 table #104: 128746 bytes OK
+2023/11/06-11:38:48.880 5d4c Recovering log #103
+2023/11/06-11:38:48.882 5d4c Level-0 table #105: started
+2023/11/06-11:38:48.891 5d4c Level-0 table #105: 128609 bytes OK
+2023/11/06-11:38:48.897 5d4c Delete type=0 #102
+2023/11/06-11:38:48.897 5d4c Delete type=0 #103

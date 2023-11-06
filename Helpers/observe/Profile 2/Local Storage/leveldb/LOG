@@ -1,0 +1,6 @@
+2023/11/06-11:46:25.360 495c Reusing MANIFEST C:\Users\nikit\Documents\WebStormProjects\e2emycrush\Helpers\observe\Profile 2\Local Storage\leveldb/MANIFEST-000001
+2023/11/06-11:46:25.361 495c Recovering log #631
+2023/11/06-11:46:25.363 495c Reusing old log C:\Users\nikit\Documents\WebStormProjects\e2emycrush\Helpers\observe\Profile 2\Local Storage\leveldb/000631.log 
+2023/11/06-11:47:07.935 5074 Level-0 table #634: started
+2023/11/06-11:47:07.945 5074 Level-0 table #634: 322356 bytes OK
+2023/11/06-11:47:07.947 5074 Delete type=0 #631

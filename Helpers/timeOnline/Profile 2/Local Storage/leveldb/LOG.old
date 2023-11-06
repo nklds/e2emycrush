@@ -1,0 +1,14 @@
+2023/11/06-11:39:02.485 45b4 Reusing MANIFEST C:\Users\nikit\Documents\WebStormProjects\e2emycrush\Helpers\timeOnline\Profile 2\Local Storage\leveldb/MANIFEST-000001
+2023/11/06-11:39:02.486 45b4 Recovering log #104
+2023/11/06-11:39:02.487 45b4 Level-0 table #107: started
+2023/11/06-11:39:02.492 45b4 Level-0 table #107: 128369 bytes OK
+2023/11/06-11:39:02.494 45b4 Delete type=0 #104
+2023/11/06-11:39:02.495 3028 Compacting 4@0 + 1@1 files
+2023/11/06-11:39:02.504 3028 Generated table #109@0: 73 keys, 169695 bytes
+2023/11/06-11:39:02.504 3028 Compacted 4@0 + 1@1 files => 169695 bytes
+2023/11/06-11:39:02.505 3028 compacted to: files[ 0 1 0 0 0 0 0 ]
+2023/11/06-11:39:02.505 3028 Delete type=2 #99
+2023/11/06-11:39:02.506 3028 Delete type=2 #101
+2023/11/06-11:39:02.506 3028 Delete type=2 #102
+2023/11/06-11:39:02.506 3028 Delete type=2 #105
+2023/11/06-11:39:02.506 3028 Delete type=2 #107

@@ -1,0 +1,6 @@
+2023/11/06-11:46:01.931 6120 Reusing MANIFEST C:\Users\nikit\Documents\WebStormProjects\e2emycrush\Helpers\maritalStatus\Profile 2\Local Storage\leveldb/MANIFEST-000001
+2023/11/06-11:46:01.933 6120 Recovering log #110
+2023/11/06-11:46:01.934 6120 Reusing old log C:\Users\nikit\Documents\WebStormProjects\e2emycrush\Helpers\maritalStatus\Profile 2\Local Storage\leveldb/000110.log 
+2023/11/06-11:47:07.946 4a58 Level-0 table #114: started
+2023/11/06-11:47:07.951 4a58 Level-0 table #114: 148450 bytes OK
+2023/11/06-11:47:07.953 4a58 Delete type=0 #110
